@@ -1,0 +1,33 @@
+<strings>
+<string id="AppName">VirtualPetNothing</string>
+
+  <!-- Hair Settings -->
+  <string id="hairTitle">Hair</string>
+  <string id="hairPrompt">Select Hair Style</string>
+  <string id="PonyTail">PonyTail</string>
+  <string id="CandyHair">Candy Hair</string>
+  <string id="BoneHair">Bone Hair</string>
+  <string id="BunHair">Bun Hair</string>
+
+  <!-- Hands Settings -->
+  <string id="handsTitle">Hands</string>
+  <string id="handsPrompt">Select Hand Style</string>
+  <string id="NormalHands">Normal Hands</string>
+  <string id="NoHands">No Hands</string>
+  <string id="FunHands">Fun Hands</string>
+  <string id="WaveHands">Wave Hands</string>
+
+  <!-- Candy Settings -->
+  <string id="candyTitle">Candy</string>
+  <string id="candyPrompt">Select Candy Amount</string>
+  <string id="TooMuchCandy">Too Much Candy</string>
+  <string id="SomeCandy">Some Candy</string>
+  <string id="NoCandy">No Candy</string>
+
+  <!-- Character Settings -->
+  <string id="characterTitle">Character</string>
+  <string id="characterPrompt">Select Character</string>
+  <string id="GhostGirl">Ghost Girl</string>
+  <string id="GhostGuy">Ghost Guy</string>
+</strings>
+
